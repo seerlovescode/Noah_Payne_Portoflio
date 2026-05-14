@@ -19,6 +19,12 @@ export default [
         stack: ['C', 'Python','Reac', 'STM32', 'FastAPI','Embedded C', 'Fullstack Development', 'Electronics','Firmware','Laser Optics'],
         link: 'https://www.servomex.com/gas-analyzers/finder/laser-3-plus-combustion?tab=specifications-tab#tabs',
     },
+    {
+        title: 'Custom I2C Chip SoC Design',
+        imgUrl: '/assets/sev-seg.png',
+        stack: ['Circuit Design', 'Circuit Simulation', 'SMBus', 'I2C'],
+        link: 'https://github.com/seerlovescode/Seven-Seg-Chip',
+    },
 
     {
         title: 'The Classifier',
