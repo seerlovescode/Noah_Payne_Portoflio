@@ -3,15 +3,21 @@ export default [
     {
         title: 'ESP32 MQTT Temperature/Humidity sensor',
         imgUrl: '/assets/esp32 sensor.png',
-        stack: ['C/C++','ESP32','MQTT', 'Electronics', 'Circuit Design'],
+        stack: ['C++','ESP32','MQTT', 'Electronics', 'Circuit Design'],
         link: 'https://wokwi.com/projects/392902051936288769',
     },
 
     {
         title: '/SEMBLR 1.0 Robotic Arm',
         imgUrl: '/assets/semblr.jpg',
-        stack: ['C','ESP32', 'Electronics', 'Circuit Design'],
+        stack: ['C/C++', 'Arduino', 'ESP32', 'Electronics', 'Hardware', 'PCB Circuit Design'],
         link: 'https://docs.google.com/presentation/d/e/2PACX-1vSV0BiYbb5RHni2y7zyT77KAA951O6sM2YSFCgrsAJYBeuAij0jYJbkheGKEVKHUz2ned-wdwA7t26t/pubembed?start=false&loop=false&delayms=3000',
+    },
+    {
+        title: 'CO2 Gas Analyser - Firmware + Fullstack',
+        imgUrl: '/assets/laser3pluspro.png',
+        stack: ['C', 'Python','Reac', 'STM32', 'FastAPI','Embedded C', 'Fullstack Development', 'Electronics','Firmware','Laser Optics'],
+        link: 'https://www.servomex.com/gas-analyzers/finder/laser-3-plus-combustion?tab=specifications-tab#tabs',
     },
 
     {
