@@ -19,7 +19,7 @@ export default [
         year: '2020 to 2020',
         title:'Fullstack Developer',
         location: 'Property Webmasters',
-        duration: '6 months',
+        duration: '6+ months',
         details: 'Helped to design bright responsive Fullstack Laravel sites and bring them to life using Figma, Tailwind CSS, HTML, Core PHP and Laravel framework. I was helped to build and deploy multiple international estate finding websites such as: Mellerbraggins and Unique Living. As well as using Docker Containers for Database Integration and agile methodology & Gitlab and Git for version control.',
 
     },

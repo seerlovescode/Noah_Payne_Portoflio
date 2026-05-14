@@ -3,7 +3,7 @@ export default [
     {
         title: 'ESP32 MQTT Temperature/Humidity sensor',
         imgUrl: '/assets/esp32 sensor.png',
-        stack: ['C++','ESP32','MQTT', 'Electronics', 'Circuit Design'],
+        stack: ['C/C++','ESP32','MQTT', 'Electronics', 'Circuit Design'],
         link: 'https://wokwi.com/projects/392902051936288769',
     },
 
