@@ -22,7 +22,7 @@ export default [
     {
         title: 'Custom I2C Chip SoC Design',
         imgUrl: '/assets/sev-seg.png',
-        stack: ['Circuit Design', 'Circuit Simulation', 'SMBus', 'I2C'],
+        stack: ['Embedded C','Circuit Design', 'Circuit Simulation', 'SMBus', 'I2C'],
         link: 'https://github.com/seerlovescode/Seven-Seg-Chip',
     },
 
