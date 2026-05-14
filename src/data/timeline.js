@@ -4,7 +4,7 @@ export default [
         title: 'Senior Electronics Engineer',
         location: 'Servomex UK',
         duration: '6+ months',
-        details: 'Developed and maintained the scalable Hardware, Electronics and Software test environment on CO2 laser diode transducers to analyse and measure harmful industrial gases using Laser Spectroscopy in PPM. Using Hyper-V VMWare Pro Windows 11 Sandbox environments',
+        details: 'Developed and maintained the scalable Hardware, Electronics and Softwaretest environment on CO2 laser diode transducers to analyse and measure harmful industrial gases using Laser Spectroscopy in PPM. Using Hyper-V VMWare Pro Windows 11 Sandbox environments',
     },
     {
         year: '2021 to 2024',
