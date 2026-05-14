@@ -20,7 +20,7 @@ export default [
         link: 'https://www.servomex.com/gas-analyzers/finder/laser-3-plus-combustion?tab=specifications-tab#tabs',
     },
     {
-        title: 'Custom I2C Chip SoC Design',
+        title: 'Custom UART Chip Design',
         imgUrl: '/assets/sev-seg.png',
         stack: ['Embedded C','Circuit Design', 'Circuit Simulation', 'SMBus', 'I2C'],
         link: 'https://github.com/seerlovescode/Seven-Seg-Chip',
