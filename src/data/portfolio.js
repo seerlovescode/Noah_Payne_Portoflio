@@ -15,7 +15,7 @@ export default [
     },
     {
         title: 'CO2 Gas Analyser - Firmware + Fullstack',
-        imgUrl: '/assets/laser3pluspro.png',
+        imgUrl: 'assets/laserpro.png',
         stack: ['C', 'Python','Reac', 'STM32', 'FastAPI','Embedded C', 'Fullstack Development', 'Electronics','Firmware','Laser Optics'],
         link: 'https://www.servomex.com/gas-analyzers/finder/laser-3-plus-combustion?tab=specifications-tab#tabs',
     },
